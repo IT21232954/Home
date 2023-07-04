@@ -1,9 +1,9 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lahiranga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21232954&label=Profile%20views&color=0e75b6&style=flat" alt="it21232954" /> </p>
+
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
 
